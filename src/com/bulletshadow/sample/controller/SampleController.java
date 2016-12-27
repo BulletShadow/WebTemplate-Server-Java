@@ -1,4 +1,4 @@
-package com.yeeio.credit.controller;
+package com.bulletshadow.sample.controller;
 
 
 import org.springframework.web.bind.annotation.PathVariable;

@@ -9,7 +9,7 @@
 	    http://www.springframework.org/schema/context/spring-context.xsd
         ">
 
-    <context:component-scan base-package="com.yeeio.credit.controller"></context:component-scan>
+    <context:component-scan base-package="com.bulletshadow.sample.controller"></context:component-scan>
 
     <bean	class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/>
     <bean	class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
